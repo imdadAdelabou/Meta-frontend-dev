@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.ml {
+    margin-left: 30px;
+}
+
+.ml2 {
+    margin-left: 35px;
+}
+
+.pC {
+    padding-left: 210px;
+}
